@@ -1,0 +1,1 @@
+samtools view -b -S $1 > $2
