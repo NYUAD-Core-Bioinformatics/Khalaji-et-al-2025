@@ -1,0 +1,1 @@
+macs3 callpeak -t $3 $4 -c $1 $2 -f BAMPE -g mm -n $5 -B  --broad --broad-cutoff 0.1
